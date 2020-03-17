@@ -1,0 +1,3 @@
+cd/
+shutdown -a
+pause
